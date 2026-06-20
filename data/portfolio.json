@@ -1,0 +1,93 @@
+{
+  "personal": {
+    "name": "YOUR NAME",
+    "title": "Full Stack Developer & AI/ML Enthusiast",
+    "bio": "Passionate about building innovative solutions with modern web technologies and artificial intelligence. Experienced in backend development and machine learning projects.",
+    "profileImage": "https://via.placeholder.com/150"
+  },
+  "about": {
+    "intro": "Welcome to my portfolio! I'm a passionate developer with expertise in multiple tech stacks.",
+    "description": "I specialize in building scalable applications using modern web technologies and implementing AI/ML solutions. With experience in both frontend and backend development, I create seamless user experiences combined with robust server architecture. I'm constantly learning and exploring new technologies to stay at the cutting edge of development."
+  },
+  "skills": [
+    {
+      "category": "Backend / Database",
+      "skills": [
+        "Node.js",
+        "Express",
+        "Python",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs",
+        "GraphQL",
+        "Docker"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "Next.js",
+        "Responsive Design",
+        "UI/UX"
+      ]
+    },
+    {
+      "category": "AI/ML",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project Title 1",
+      "category": "Full Stack",
+      "description": "Description of your first project. Explain what technologies you used and what problem it solves.",
+      "githubLink": "https://github.com/rani735/project-name",
+      "demoLink": "https://project-demo.com",
+      "projectLink": ""
+    },
+    {
+      "title": "Project Title 2",
+      "category": "AI/ML",
+      "description": "Description of your second project. Include the key features and technologies implemented.",
+      "githubLink": "https://github.com/rani735/project-name",
+      "demoLink": "",
+      "projectLink": "https://project-link.com"
+    },
+    {
+      "title": "Project Title 3",
+      "category": "Backend",
+      "description": "Description of your third project. Highlight the backend architecture and API design.",
+      "githubLink": "https://github.com/rani735/project-name",
+      "demoLink": "https://api-demo.com",
+      "projectLink": ""
+    },
+    {
+      "title": "Project Title 4",
+      "category": "Full Stack",
+      "description": "Description of your fourth project. Showcase integration of frontend and backend technologies.",
+      "githubLink": "https://github.com/rani735/project-name",
+      "demoLink": "https://project-demo.com",
+      "projectLink": ""
+    }
+  ],
+  "social": {
+    "github": "https://github.com/rani735",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "twitter": "https://twitter.com/yourhandle",
+    "email": "your-email@example.com"
+  }
+}
